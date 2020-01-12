@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Juggernaut Wars battle helper",
   "main": "public/index.html",
-  "homepage": "./",
+  "homepage": "https://gerasimovdaniel.github.io/jw-battle-helper",
   "dependencies": {
     "npm-start": "^1.4.2",
     "react": "^16.12.0",
@@ -13,10 +13,12 @@
     "redux": "^3.7.2"
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "redux-devtools": "^3.5.0"
   },
   "scripts": {
-    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build-html": "node builder.js > index.html",
     "start": "react-scripts start",
     "build": "react-scripts build",
