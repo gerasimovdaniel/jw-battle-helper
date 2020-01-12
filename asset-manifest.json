@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jw-battle-helper/static/css/main.08d8faa2.chunk.css",
+    "main.js": "/jw-battle-helper/static/js/main.bf9c4ed6.chunk.js",
+    "main.js.map": "/jw-battle-helper/static/js/main.bf9c4ed6.chunk.js.map",
+    "runtime-main.js": "/jw-battle-helper/static/js/runtime-main.f74770b2.js",
+    "runtime-main.js.map": "/jw-battle-helper/static/js/runtime-main.f74770b2.js.map",
+    "static/js/2.1ba809ce.chunk.js": "/jw-battle-helper/static/js/2.1ba809ce.chunk.js",
+    "static/js/2.1ba809ce.chunk.js.map": "/jw-battle-helper/static/js/2.1ba809ce.chunk.js.map",
+    "index.html": "/jw-battle-helper/index.html",
+    "precache-manifest.535fd8465ed31ea35d3cc2e2aa0562ee.js": "/jw-battle-helper/precache-manifest.535fd8465ed31ea35d3cc2e2aa0562ee.js",
+    "service-worker.js": "/jw-battle-helper/service-worker.js",
+    "static/css/main.08d8faa2.chunk.css.map": "/jw-battle-helper/static/css/main.08d8faa2.chunk.css.map",
+    "static/js/2.1ba809ce.chunk.js.LICENSE": "/jw-battle-helper/static/js/2.1ba809ce.chunk.js.LICENSE",
+    "static/media/avatar-31.jpg": "/jw-battle-helper/static/media/avatar-31.0a1ba627.jpg",
+    "static/media/avatar-60.jpg": "/jw-battle-helper/static/media/avatar-60.f125a473.jpg",
+    "static/media/avatar-69.jpg": "/jw-battle-helper/static/media/avatar-69.061941c6.jpg",
+    "static/media/style.css": "/jw-battle-helper/static/media/jh-icons.e675aad1.woff",
+    "static/media/index.css": "/jw-battle-helper/static/media/main-2.c82d8e8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f74770b2.js",
+    "static/js/2.1ba809ce.chunk.js",
+    "static/css/main.08d8faa2.chunk.css",
+    "static/js/main.bf9c4ed6.chunk.js"
+  ]
+}
