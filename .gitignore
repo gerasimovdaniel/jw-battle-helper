@@ -15,3 +15,7 @@ node_modules/*
 # Ide #
 #######
 .idea/*
+
+# Build #
+#########
+build/*
