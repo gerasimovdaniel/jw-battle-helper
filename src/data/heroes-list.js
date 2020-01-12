@@ -106,6 +106,13 @@ function frontLine() {
             "defence": ["D"]
         },
         {
+            "hero": "74",
+            "img": "avatar-74.jpg",
+            "name": "Ледяной маг Венделл",
+            "offence": [],
+            "defence": ["D", "R"]
+        },
+        {
             "hero": "6",
             "img": "avatar-6.jpg",
             "name": "Самурай Яси",
@@ -199,13 +206,6 @@ function frontLine() {
             "offence": ["S"],
             "defence": ["D", "R"],
             "incompatibleWith": ["57", "71"]
-        },
-        {
-            "hero": "74",
-            "img": "avatar-74.jpg",
-            "name": "Ледяной маг Венделл",
-            "offence": [],
-            "defence": ["D", "R"]
         },
         {
             "hero": "24",
@@ -307,7 +307,7 @@ function frontLine() {
         }
     ];
 
-};
+}
 
 function backLine() {
     return [
@@ -564,6 +564,6 @@ function backLine() {
             "defence": []
         }
     ];
-};
+}
 
 export {frontLine, backLine}
