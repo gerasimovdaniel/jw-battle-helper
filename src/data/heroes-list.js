@@ -487,6 +487,13 @@ function backLine() {
             "defence": []
         },
         {
+            "hero": "79",
+            "img": "avatar-79.jpg",
+            "name": "Вампир Максимир",
+            "offence": ["M"],
+            "defence": []
+        },
+        {
             "hero": "58",
             "img": "avatar-58.jpg",
             "name": "Тиран Горбах",
