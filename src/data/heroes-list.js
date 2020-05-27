@@ -312,6 +312,13 @@ function frontLine() {
 function backLine() {
     return [
         {
+            "hero": "80",
+            "img": "avatar-80.jpg",
+            "name": "Зверг-бард Хемминг",
+            "offence": ["U"],
+            "defence": []
+        },
+        {
             "hero": "64",
             "img": "avatar-64.jpg",
             "name": "Секира",
