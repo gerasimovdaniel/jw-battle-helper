@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jw-battle-helper/static/css/main.08d8faa2.chunk.css",
-    "main.js": "/jw-battle-helper/static/js/main.a387e27a.chunk.js",
-    "main.js.map": "/jw-battle-helper/static/js/main.a387e27a.chunk.js.map",
+    "main.js": "/jw-battle-helper/static/js/main.03744a5f.chunk.js",
+    "main.js.map": "/jw-battle-helper/static/js/main.03744a5f.chunk.js.map",
     "runtime-main.js": "/jw-battle-helper/static/js/runtime-main.f74770b2.js",
     "runtime-main.js.map": "/jw-battle-helper/static/js/runtime-main.f74770b2.js.map",
     "static/js/2.1ba809ce.chunk.js": "/jw-battle-helper/static/js/2.1ba809ce.chunk.js",
     "static/js/2.1ba809ce.chunk.js.map": "/jw-battle-helper/static/js/2.1ba809ce.chunk.js.map",
     "index.html": "/jw-battle-helper/index.html",
-    "precache-manifest.1d5e70a838ec5d26d15a0893f6c37508.js": "/jw-battle-helper/precache-manifest.1d5e70a838ec5d26d15a0893f6c37508.js",
+    "precache-manifest.acf53e0c09fa77b50397135604244965.js": "/jw-battle-helper/precache-manifest.acf53e0c09fa77b50397135604244965.js",
     "service-worker.js": "/jw-battle-helper/service-worker.js",
     "static/css/main.08d8faa2.chunk.css.map": "/jw-battle-helper/static/css/main.08d8faa2.chunk.css.map",
     "static/js/2.1ba809ce.chunk.js.LICENSE": "/jw-battle-helper/static/js/2.1ba809ce.chunk.js.LICENSE",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.f74770b2.js",
     "static/js/2.1ba809ce.chunk.js",
     "static/css/main.08d8faa2.chunk.css",
-    "static/js/main.a387e27a.chunk.js"
+    "static/js/main.03744a5f.chunk.js"
   ]
 }
