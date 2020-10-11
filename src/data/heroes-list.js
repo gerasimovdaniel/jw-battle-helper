@@ -250,6 +250,13 @@ function frontLine() {
             "defence": []
         },
         {
+            "hero": "81",
+            "img": "avatar-81.jpg",
+            "name": "Гладиатор Бараус",
+            "offence": ["S"],
+            "defence": ["D"]
+        },
+        {
             "hero": "51",
             "img": "avatar-51.jpg",
             "name": "Убийца Кира",
