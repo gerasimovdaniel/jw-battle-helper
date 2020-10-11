@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66de6164226e1102333e90d143e3c3d8",
+    "revision": "5404765cda9fe1763b335c5aab2dcb1c",
     "url": "/jw-battle-helper/index.html"
   },
   {
