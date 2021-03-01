@@ -536,6 +536,13 @@ function backLine() {
             "defence": ["R"]
         },
         {
+            "hero": "82",
+            "img": "avatar-82.jpg",
+            "name": "Чародей Фальс",
+            "offence": ["M"],
+            "defence": ["R"]
+        },
+        {
             "hero": "59",
             "img": "avatar-59.jpg",
             "name": "Друид Зелич",
