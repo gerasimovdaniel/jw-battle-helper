@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5404765cda9fe1763b335c5aab2dcb1c",
+    "revision": "f1360d0fde5e82dec60441053248fffe",
     "url": "/jw-battle-helper/index.html"
   },
   {
-    "revision": "f147633af3e067fe9f5d",
+    "revision": "5a5931bd09f438b79262",
     "url": "/jw-battle-helper/static/css/main.08d8faa2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jw-battle-helper/static/js/2.1ba809ce.chunk.js.LICENSE"
   },
   {
-    "revision": "f147633af3e067fe9f5d",
-    "url": "/jw-battle-helper/static/js/main.03744a5f.chunk.js"
+    "revision": "5a5931bd09f438b79262",
+    "url": "/jw-battle-helper/static/js/main.88136a8f.chunk.js"
   },
   {
     "revision": "dbb0f45c026d8bc9d555",
